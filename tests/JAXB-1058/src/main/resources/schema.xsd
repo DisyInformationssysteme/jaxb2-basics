@@ -5,7 +5,7 @@
 	targetNamespace="urn:test"
 	elementFormDefault="qualified"
 	attributeFormDefault="unqualified"
-	xmlns:jaxb="http://java.sun.com/xml/ns/jaxb"
+	xmlns:jaxb="https://jakarta.ee/xml/ns/jaxb"
 	jaxb:version="2.1">
 
 	<xs:annotation>
